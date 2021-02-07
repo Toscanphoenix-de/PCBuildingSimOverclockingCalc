@@ -7,7 +7,7 @@ You can download it here:
 https://www.java.com/de/download/
 
 ## Installation Process:
--Download Java and install it
+- Download Java and install it
 - Download the jar / exe file 
 - Run it
 
